@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T06:19:33.273Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9coF0sCm-HTfHGCJSUmr" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T06:32:23.530Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="eIHhGuZ23yUpkotRkwuP" version="21.1.2" type="github">
   <diagram id="nIsOD1qizuYlLlw716cR" name="페이지-1">
     <mxGraphModel dx="1266" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="G6LT60rg8nMcYdDrV1LB-25" value="Private subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" parent="G6LT60rg8nMcYdDrV1LB-16" vertex="1">
           <mxGeometry x="882" y="310" width="668" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="WpgjD-DAagxGPT_vYOPz-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8324;strokeColor=none;" vertex="1" parent="G6LT60rg8nMcYdDrV1LB-10">
+        <mxCell id="WpgjD-DAagxGPT_vYOPz-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8324;strokeColor=none;" parent="G6LT60rg8nMcYdDrV1LB-10" vertex="1">
           <mxGeometry x="192" y="190" width="58" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G6LT60rg8nMcYdDrV1LB-27" value="&lt;ul&gt;&lt;li&gt;CI/CD&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
